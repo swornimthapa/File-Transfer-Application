@@ -1,0 +1,1 @@
+jreWindows\bin\java.exe -jar "File-Trasfer-System.jar"
